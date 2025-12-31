@@ -1,0 +1,21 @@
+# Environment variables (bevat API keys!)
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
